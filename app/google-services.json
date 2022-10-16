@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515439904736",
+    "project_id": "codeatlas-2e52d",
+    "storage_bucket": "codeatlas-2e52d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515439904736:android:efc200c08ff3b5ab8f8d85",
+        "android_client_info": {
+          "package_name": "com.example.codeatlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515439904736-5noephuo7l75mljelq2gff5t8dk7mia8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_YqBobvmihC05Xfdrc2QUTLtbYPPDu4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515439904736-5noephuo7l75mljelq2gff5t8dk7mia8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
